@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
 <h3 align="center">Django Virtuoso: Crafting Web Excellence</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arminarm90" alt="arminarm90" /></a> </p>
-
 - 🌱 I’m currently learning **more about Django and Laravel frameworks**
 
 - 💬 Ask me about **Django, python and stuff**
