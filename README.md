@@ -5,11 +5,16 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
 <!-- <h3 align="center">Django Virtuoso: Crafting Web Excellence</h3>
  -->
-<div align="center">
+
+ <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Django+Virtuoso+:+Crafting+Web+Excellence;)](https://git.io/typing-svg)
 
 </div>
+ <p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **more about Django and Laravel frameworks**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **everything**. <br>
