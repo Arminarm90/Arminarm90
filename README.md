@@ -10,8 +10,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Django+Virtuoso+:+Crafting+Web+Excellence;)](https://git.io/typing-svg)
 
-<!--</div>
- <p align="center">
+</div>
+ <!--<p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>-->
 
